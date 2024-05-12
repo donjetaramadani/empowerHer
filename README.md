@@ -1,1 +1,1 @@
-empowerHer
+empowerHer-Hackathon Project
